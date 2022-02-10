@@ -5,12 +5,12 @@
 
 People who don’t have technical knowledge of calculating electricity bill can use this application to predict electricity bill of upcoming months, however, the defining features of an electricity bill calculator include:
 
-power rating of all loads
-total load calculation
-unit consumed per day
-units consumed per month
+1)power rating of all loads
+2)total load calculation
+3)unit consumed per day
+4)units consumed per month
 In addition, high-end electricity bill calculators generally include:
 
-electricity bill calculation in urban areas
-electricity bill calculation in rural areas
-bill calculation based on units consumed
+1)electricity bill calculation in urban areas
+2)electricity bill calculation in rural areas
+3)bill calculation based on units consumed
