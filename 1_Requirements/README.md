@@ -21,3 +21,13 @@ An online voting system is a secure idea to conduct the voting by organisations 
 1.The admin should be able to ban the unsuitable candidates.
 
 2.The admin should able to delete the votes from the banned members.
+
+#SWOT Analysis
+
+1.Timely delivery of elections,minimize cost for running elections.
+
+2.Online voting system paves ways to so many security issues then any other cyber systems.
+
+3.Once learned easy for elderly and disabled people.
+
+4.The attackers can abuse the system.
