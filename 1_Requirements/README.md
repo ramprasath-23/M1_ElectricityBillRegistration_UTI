@@ -24,10 +24,18 @@ An online voting system is a secure idea to conduct the voting by organisations 
 
 #SWOT Analysis
 
-1.Timely delivery of elections,minimize cost for running elections.
+#Strength
 
-2.Online voting system paves ways to so many security issues then any other cyber systems.
+Timely delivery of elections,minimize cost for running elections.
 
-3.Once learned easy for elderly and disabled people.
+#Weakness
 
-4.The attackers can abuse the system.
+Online voting system paves ways to so many security issues then any other cyber systems.
+
+#Opportunities
+
+Once learned easy for elderly and disabled people.
+
+#Threats
+
+The attackers can abuse the system.
