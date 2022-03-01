@@ -35,3 +35,13 @@ Once learned easy for elderly and disabled people.
 ### Threats
 
 The attackers can abuse the system.
+
+## 5W and 1H
+| W's&H | Description |
+| --- | --- |
+| What | Online Voting System |
+| Where | In Online |
+| Who | Government,Organisations,Companies |
+| When | During elections |
+| Why | To conduct the elections securely and to save the time |
+| How | By using mobile appication or website |
